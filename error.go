@@ -1,4 +1,4 @@
-package libcmd
+package cli
 
 type Error struct {
 	ExitCode int

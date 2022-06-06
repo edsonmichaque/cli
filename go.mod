@@ -1,8 +1,8 @@
-module github.com/edsonmichaque/libcmd
+module github.com/edsonmichaque/cli
 
 go 1.18
 
-replace github.com/edsonmichaque/libcmd => ./
+replace github.com/edsonmichaque/cli => ./
 
 require (
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
